@@ -8,9 +8,9 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "owner number",
+      "description": "918972767390",
       "required": true,
-      "value": "923444844060"
+      "value": "918972767390"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -49,17 +49,17 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
-      "required": false,
+      "required": true,
       "value": "false"
     },
      "REMOVEBG_KEY": {
